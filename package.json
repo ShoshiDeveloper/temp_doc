@@ -1,5 +1,5 @@
 {
-  "name": "mojul-css",
+  "name": "documanetation-sh",
   "version": "0.1.0",
   "description": "",
   "main": "index.ts",
@@ -10,10 +10,8 @@
     "docs:serve": "vitepress serve docs"
   },
   "keywords": [
-    "sss framework",
-    "css"
   ],
-  "author": "TerrniT",
+  "author": "PAVEL LOBACHEV",
   "license": "ISC",
   "dependencies": {
     "vue": "^3.4.21"
