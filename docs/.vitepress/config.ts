@@ -5,6 +5,9 @@ import { mobileFrontviewSidebar } from '../src/mobile/frontview/sidebar'
 export default defineConfig({
   title: "Документация",
   // description: "Мои языки",
+  head: [
+    ['meta', { name: 'robots', content: 'noindex, nofollow' }]
+  ],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
