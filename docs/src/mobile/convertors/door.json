@@ -1,0 +1,10 @@
+{
+ "contact": {
+        "value": {
+            "replace": {
+                "true": true,
+                "false": false
+            }
+        }
+    }   
+}

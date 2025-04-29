@@ -1,0 +1,12 @@
+{
+ "state": {
+        "value": {
+            "replace": {
+                "ON": true,
+                "OFF": false,
+                "true": true,
+                "false": false
+            }
+        }
+    }
+}
