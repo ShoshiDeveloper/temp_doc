@@ -1,0 +1,11 @@
+{
+    "action": {
+        "value": {
+            "replace": {
+                "hold": "hold",
+                "double": "double",
+                "single": "single"
+            }
+        }
+    }
+}
